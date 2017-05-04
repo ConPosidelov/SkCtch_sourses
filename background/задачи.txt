@@ -1,0 +1,3 @@
+ Доделать:
+
+1. sendTranslation
